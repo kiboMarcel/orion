@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72284431030",
+    "project_id": "orion-2437c",
+    "storage_bucket": "orion-2437c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72284431030:android:e747fd4f6c4c076a1bfc17",
+        "android_client_info": {
+          "package_name": "com.example.orion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72284431030-25r82ap0dtbgiha6a6sm3sh2r179jm6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAimZViwRp1XOfkH3kkZwZV8WK82wzBdlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72284431030-25r82ap0dtbgiha6a6sm3sh2r179jm6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
