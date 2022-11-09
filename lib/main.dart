@@ -3,6 +3,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 import 'package:flutter_polyline_points/flutter_polyline_points.dart';
 
+import 'presentations/screens/current_position.dart';
 import 'presentations/screens/order_tracking_page.dart';
 
 void main() => runApp(MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.orange,
       ),
-      home: OrderTrackingPage(),
+      home: CurrentLocation(),
     );
   }
 }
